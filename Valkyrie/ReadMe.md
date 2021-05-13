@@ -3,7 +3,8 @@
 
 		Play as a Valkyrie replacing Sonata.
 		Commissioned by Omegegi, thanks !
-		
+
+![](Workfiles/RenderAlt.jpg)
 		By order, textures are made by:
 			Default - **Aru**
 			Rustic Barbarian - **Omegegi**
