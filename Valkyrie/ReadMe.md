@@ -4,16 +4,20 @@
 		Play as a Valkyrie replacing Sonata.
 		Commissioned by Omegegi, thanks !
 
+## Textures
+
 ![](Workfiles/RenderAlt.jpg)
-		By order, textures are made by:
-			Default - **Aru**
-			Rustic Barbarian - **Omegegi**
-			Marshland Warrior - **NoVa**
-			Melodic Necrotic - **NoVa**
-			Demi-Demon - **Sevkins**
-			Bloostained Warrior - **EmDotTwo**
-			Maddened Warrior - **Milla Pepsi**
-			Muddy Valkyrie - **Aru**
+
+Custom textures made by:
+
+	• Aru (Default)			
+	• Omegegi (Rustic Barbarian)	
+	• NoVa (Marshland Warrior)
+	• NoVa (Melodic Necrotic)
+	• Sevkins (Demi-Demon)
+	• EmDotTwo (Bloostained Warrior)
+	• Milla Pepsi (Maddened Warrior)
+	• Aru (Muddy Valkyrie)
 		
 ## How to Install
 • Make a backup of **Steam\steamapps\common\LLBlaze\Bundles\characters** bundle files
