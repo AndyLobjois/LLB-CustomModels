@@ -1,4 +1,4 @@
-## Doom SLayer
+## Doom Slayer
 ![](Workfiles/Render.jpg)
 
 		Play as the Doom Slayer from DOOM for Raptor Mascot.
