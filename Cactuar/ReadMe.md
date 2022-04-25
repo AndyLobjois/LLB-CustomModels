@@ -1,5 +1,5 @@
 ## Cactuar
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 		Play as a Cactuar from Final Fantasy.
 		Made with the help of MrGentle.

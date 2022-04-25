@@ -1,5 +1,5 @@
 ## Sir Greed
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 		Play as a Gentleman with Grid.
 		

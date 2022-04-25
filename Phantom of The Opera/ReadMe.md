@@ -1,5 +1,5 @@
 ## Phantom of The Opera
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 		Play as the Phantom of The Opera replacing Nitro Detective.
 		

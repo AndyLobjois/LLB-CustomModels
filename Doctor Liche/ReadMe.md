@@ -1,5 +1,5 @@
 ## Doctor Liche
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 		Play as Doctor Liche, an injured medic, for Latch.
 		

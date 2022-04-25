@@ -1,5 +1,5 @@
 ## Xi
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 		Play as Xi replacing Candyman Straitjacket.
 		Commissioned by Colk, thanks !

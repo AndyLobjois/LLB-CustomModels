@@ -1,5 +1,5 @@
 ## Lemongrab
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 	Play as Lemongrab from Adventure Time for Candyman.
 	Commissioned by imadethis_, thanks !

@@ -1,5 +1,5 @@
 ## Sbire
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 	Play as a Sbire (French word for Minion) for Dust&Ashes, extracted from my work on the custom map Hive Underground.
 

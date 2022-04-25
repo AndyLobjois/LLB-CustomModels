@@ -1,5 +1,5 @@
 ## Sunglasses Jet
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 		Play as Jet but with cool shades !
 		

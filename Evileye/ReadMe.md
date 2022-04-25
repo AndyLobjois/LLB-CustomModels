@@ -1,5 +1,5 @@
 ## Evileye
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 		Play as Evileye from Overlord, replacing Jet Scuba.
 		Commissioned by Falco from the Team Reptile Discord.

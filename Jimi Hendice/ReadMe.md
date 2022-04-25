@@ -1,5 +1,5 @@
 ## Jimi Hendice
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 	Play as Jimi Hendrix alike for Dice School outfit.
 	Thanks to Milla Pepsi for the second skin, better than my lazy previous one.

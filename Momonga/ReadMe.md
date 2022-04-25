@@ -1,5 +1,5 @@
 ## Momonga
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 	Play as Momonga from Overlord for Dust&Ashes Metal outfit.
 	Commissioned by Falco, thanks !

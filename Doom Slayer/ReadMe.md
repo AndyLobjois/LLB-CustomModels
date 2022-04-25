@@ -1,5 +1,5 @@
 ## Doom Slayer
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 		Play as the Doom Slayer from DOOM for Raptor Mascot.
 		Commissioned by Killual from the Team Reptile Discord.

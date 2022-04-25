@@ -1,5 +1,5 @@
 ## Candy O'Lantern
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 		Play as a Jack O'Lantern for Candyman Strait outfit.
 		

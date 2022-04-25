@@ -1,5 +1,5 @@
 ## Zato-1 and Eddie
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 	Play as Zato-1 and Eddie from Guilty Gear Strive replacing Dust&Ashes.
 	Free commission for Cherry !

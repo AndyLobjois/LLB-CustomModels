@@ -1,5 +1,5 @@
 ## Valkyrie
-![](Workfiles/Render.jpg)
+![](Workfiles/Render.png)
 
 		Play as a Valkyrie replacing Sonata.
 		Commissioned by Omegegi, thanks !
