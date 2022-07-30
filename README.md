@@ -34,3 +34,9 @@ Get all my custom models for Lethal League Blaze
 <img src="Xi/Workfiles/Render.png" height=256>
 
 <img src="Zodd/Workfiles/Render.png" height=256>
+
+<img src="Noise Clone - Dark Blood/Render.gif" height=256>
+
+<img src="Sonata Ribbons/Workfiles/Render.png" height=256>
+
+<img src="Candyman YV Head/Workfiles/Render.png" height=256>
