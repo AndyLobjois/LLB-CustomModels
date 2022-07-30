@@ -1,5 +1,5 @@
 ## Noise Clone - Dark Blood
-![](Render.png)
+![](Render.gif)
 
 		Noise Clone Shader is replacement by a black skin and red shine.
 		Commissionned by Daver6566, thanks !
