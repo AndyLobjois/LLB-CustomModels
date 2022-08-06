@@ -44,3 +44,7 @@ Get all my custom models for Lethal League Blaze
 <img src="Toxic Crown/Workfiles/Render.png" height=256>
 
 <img src="Sombrero Switch/Workfiles/Render.png" height=256>
+
+<img src="Toxic Power Glove/Workfiles/Render.png" height=256>
+
+<img src="Candyman Crown/Workfiles/Render.png" height=256>
