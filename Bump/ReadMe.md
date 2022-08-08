@@ -7,6 +7,12 @@
 ## How to Install
 • Make a backup of **Steam\steamapps\common\LLBlaze\Bundles\characters** bundle files
 
-• Download the bundle (the one without .format)
+• Download the bundles (electro/electro_game) and the .zip files
 
-• Overwrite the corresponding bundle
+• Overwrite the corresponding bundles/files
+
+	electro : Models
+	electro_games : Voice lines
+	game_sprites : Red Lightning Lines of Grid Teleportation
+	Assembly-CSharp.cs : Grid name changed to Bump
+	text.fods : Descriptions edited (EN/FR)
