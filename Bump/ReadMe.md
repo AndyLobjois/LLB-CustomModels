@@ -14,5 +14,4 @@
 	electro : Models
 	electro_games : Voice lines
 	game_sprites : Red Lightning Lines of Grid Teleportation
-	Assembly-CSharp.cs : Grid name changed to Bump
 	text.fods : Descriptions edited (EN/FR)
