@@ -1,7 +1,7 @@
 ## D.s.m.
 ![](Workfiles/Render.png)
 
-	Play as Modle on Switch.
+	Play as D.s.m. (David's Stupid Model) on Switch.
 	Commissioned by daver6566, thanks !
 
 	Several textures are made by
