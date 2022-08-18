@@ -1,7 +1,7 @@
 ## D.s.m.
 ![](Workfiles/Render.png)
 
-	Play as D.s.m. (David's Stupid Model) on Switch.
+	Play as D.s.m. (David's Stupid Model) on Switch. Original character from Snolonely.
 	Commissioned by daver6566, thanks !
 
 	Several textures are made by
