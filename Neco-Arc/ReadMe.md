@@ -2,7 +2,7 @@
 ![](Workfiles/Render.png)
 
 		Neco-Arc from Type-Moon (Melty Blood, ...) as Jet.
-		Original model by [...].
+		Original model by MetaYoutou.
 		Commissionned by Dewwer, thanks !
 		
 ## How to Install
