@@ -1,5 +1,7 @@
 ## Bump
-![](Workfiles/Render.png)
+![](Workfiles/Render1.png)
+![](Workfiles/Render2.png)
+![](Workfiles/Render3.png)
 
 		Bump, an OC character from Lusked, replacing Grid Default and Grid Cable.
 		Commissionned by Jawdrop, thanks !
@@ -11,7 +13,8 @@
 
 • Overwrite the corresponding bundles/files
 
-	electro : Models
+	electro : Bump / Bump Oni
+	electro_tazer : Bump Vigilent
 	electro_games : Voice lines
 	game_sprites : Red Lightning Lines of Grid Teleportation
 	text.fods : Descriptions edited (EN/FR)
