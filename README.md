@@ -45,10 +45,18 @@ Get all my custom models for Lethal League Blaze
 
 <img src="Sombrero Switch/Workfiles/Render.png" height=256>
 
+<img src="Bump/Workfiles/Render1.png" height=256>
+<img src="Bump/Workfiles/Render2.png" height=256>
+<img src="Bump/Workfiles/Render3.png" height=256>
+
 <img src="Toxic Power Glove/Workfiles/Render.png" height=256>
 
 <img src="Candyman Crown/Workfiles/Render.png" height=256>
 
 <img src="D.s.m/Workfiles/Render.png" height=256>
 
+<img src="Mazda MX-5 NA/Workfiles/Render.png" height=256>
+
 <img src="Technoblade/Workfiles/Render.png" height=256>
+
+<img src="Neco-Arc/Workfiles/Render.png" height=256>
